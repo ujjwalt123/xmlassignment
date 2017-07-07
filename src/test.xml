@@ -1,0 +1,12 @@
+<company>
+    <staff id="1">
+        <name>ujjwal</name>
+        <age>20</age>
+        <salary>5000000</salary>
+    </staff>
+    <staff id="2">
+        <name>yash</name>
+        <age>22</age>
+        <salary>6000000</salary>
+    </staff>
+</company>
